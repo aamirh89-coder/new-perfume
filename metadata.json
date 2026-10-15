@@ -1,0 +1,6 @@
+{
+  "name": "Maison d'Or | Haute Parfumerie",
+  "description": "An artisanal French luxury perfume house crafting rare extraits de parfum, signature olfactory notes, and bespoke fragrances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
